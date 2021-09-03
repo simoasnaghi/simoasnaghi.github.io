@@ -7,7 +7,7 @@ layout: page
 
 <p>My name is Simone Asnaghi. </p>
 
-<p>I’m 24 years old and I’m an electronics engineering. Currently, I’m enrolled in the master course of Electronics engineering at Politecnico di Milano. I have a lot of passion, but the main ones are basketball and motorsport. My dream job is to become an engineer for an F1 team. Meanwhile, I work on my personal skills and take advantage of every opportunity that life gives me. On these pages, you can find something related to my work. I hope you will enjoy your virtual visit.</p>
+<p>I’m 24 years old and I’m an electronics engineering. Currently, I’m enrolled in the master course of Electronics engineering at Politecnico di Milano. I have lot of passions, but the main ones are basketball and motorsport. My dream job is to become an engineer for an F1 team. Meanwhile, I work on my personal skills and take advantage of every opportunity that life gives me. On these pages, you can find something related to my work. I hope you will enjoy your virtual visit.</p>
 
 <h2>Skills</h2>
 
