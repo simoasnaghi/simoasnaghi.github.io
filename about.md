@@ -25,5 +25,5 @@ layout: page
 <ul>
 	<li><a href="https://github.com/simoasnaghi/resume">My professional resume page</a></li>
 	<li><a href="https://github.com/simoasnaghi/VHDL_base_module">Base VHDL module</a></li>
-	<li><a href="https://github.com/simoasnaghi/simoasnaghi.github.io/">This site</a><7li>
+	<li><a href="https://github.com/simoasnaghi/simoasnaghi.github.io/">This site</a></li>
 </ul>
