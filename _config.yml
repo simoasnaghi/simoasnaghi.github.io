@@ -8,7 +8,11 @@ description: My personal blog
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile_auth.jpg
+picture_profile: assets/images/profile.jpg
+
+# your site color theme, false to light theme
+dark-theme: true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -38,7 +42,7 @@ authors:
     name: Simone Asnaghi
     bio: Electronics Engineer
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/profile_auth.jpg
     twitter: SimoAsnaghi
 
 # do you want a larger site? change the option below
@@ -59,7 +63,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 #privacypolicy: true
 
 # do you want to show the "read time" of the posts?

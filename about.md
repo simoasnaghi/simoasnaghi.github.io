@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Profile Image]({% if site.external-image %}{{ site.picture_profile }}{% else %}{{ site.url }}/{{ site.picture_profile }}{% endif %})
 
 <p>My name is Simone Asnaghi. </p>
 
