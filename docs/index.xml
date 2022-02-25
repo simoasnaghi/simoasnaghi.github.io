@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simone Asnaghi</title>
+    <link>https://simoasnaghi.github.io/</link>
+    <description>Recent content on Simone Asnaghi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://simoasnaghi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://simoasnaghi.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoasnaghi.github.io/about/</guid>
+      <description>My name is Simone Asnaghi. I’m 24 years old and I’m an electronics engineer. Currently, I’m enrolled in the master course of Electronics Engineering at Politecnico di Milano. I have a lot of passions, but the main ones are basketball and motorsport. My dream job is to become an engineer for an F1 team. Meanwhile, I work on my personal skills and take advantage of every opportunity that life gives me.</description>
+    </item>
+    
+    <item>
+      <title>Privacy policy</title>
+      <link>https://simoasnaghi.github.io/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoasnaghi.github.io/privacy-policy/</guid>
+      <description>This site contains no cookies and I don’t collect any data linked to you. Since this page is hosted on Github’s server they could collect some of your data, like your IP address. All the information about their data collection policy could be found at the following link: Github Terms of Service. All social media logos are trademarks of their respective owners. No copyright infringement intended.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://simoasnaghi.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoasnaghi.github.io/projects/</guid>
+      <description> Base Module VHDL This is a repository with base module and gate written in VHDL language. Resume page This repository contains my resume page. This site This repository contains the code for my personal site.  </description>
+    </item>
+    
+  </channel>
+</rss>
