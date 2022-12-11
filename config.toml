@@ -17,7 +17,7 @@ description = "Simone Asnaghi's personal website"
 keywords = "blog,developer,personal"
 info = ["Electronics Engineer"]
 avatarURL = "images/profile.jpg"
-dateFormat = "2 January 2006"
+dateFormat = "2/01/2006"
 since = 2020
 # Right To Left, shift content direction for languagues such as Arabic
 rtl = false
