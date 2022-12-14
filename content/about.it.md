@@ -17,4 +17,4 @@ Ho 25 anni e sono un ingegnere elettronico. Attualmente sto frequentando il mast
 
 ## Progetti
 
-Per vedere i miei progetti consulta la mia [pagina dei progetti](https://simoasnaghi.github.io/it/projects)
+Per vedere i miei progetti consulta la mia [pagina dei progetti](https://simoasnaghi.github.io/it/progetti)
