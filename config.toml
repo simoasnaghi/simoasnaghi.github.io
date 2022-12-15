@@ -135,7 +135,7 @@ url = "about/"
 [[languages.it.menu.main]]
 name = "Progetti"
 weight = 2
-url = "progetti/"
+url = "progetti"
 
 [[languages.it.menu.main]]
 name = "Resume"

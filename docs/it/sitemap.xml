@@ -30,18 +30,6 @@
     <loc>https://simoasnaghi.github.io/it/progetti/vhdl-module/</loc>
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simoasnaghi.github.io/it/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://simoasnaghi.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://simoasnaghi.github.io/it/about/"
-                />
-  </url><url>
     <loc>https://simoasnaghi.github.io/it/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -88,6 +76,18 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://simoasnaghi.github.io/it/series/"
+                />
+  </url><url>
+    <loc>https://simoasnaghi.github.io/it/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://simoasnaghi.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://simoasnaghi.github.io/it/about/"
                 />
   </url><url>
     <loc>https://simoasnaghi.github.io/it/tags/</loc>

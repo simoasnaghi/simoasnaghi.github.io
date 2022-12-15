@@ -55,22 +55,22 @@ Possono essere usati com etemplate per ogni progetto.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://simoasnaghi.github.io/it/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://simoasnaghi.github.io/it/about/</guid>
-      <description>Il mio nome è Simone Asnaghi.
-Ho 25 anni e sono un ingegnere elettronico. Attualmente sto frequentando il master in Ingegneria Elettronica presso il Politecnico di Milano. Ho molte passioni ma le due più grandi sono il basket e il motorsport. Il mio lavoro dei sogni è diventare ingegnere per un team di formula 1. Nel frattempo perfeziono le mie skill e accolgo tutte le opportunità che la vita mi dà.</description>
-    </item>
-    
-    <item>
       <title>Privacy policy</title>
       <link>https://simoasnaghi.github.io/it/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://simoasnaghi.github.io/it/privacy-policy/</guid>
       <description>Questo sito non contiene cookie e personalmente non colleziono nessun dato su di te. Siccome questa pagina è hostata su Github pages, Github potrebbe collezionare alcuni dati su di te, come il tuo indirizzo IP. Per tutte le informazioni su quali dati raccolgono e come li trattano puoi visionare la loro privacy poilicy a questo link: Github Terms of Service. Tutti i loghi dei social network sono marchi di proprietà dei rispettivi proprietari.</description>
+    </item>
+    
+    <item>
+      <title>Su di me</title>
+      <link>https://simoasnaghi.github.io/it/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoasnaghi.github.io/it/about/</guid>
+      <description>Il mio nome è Simone Asnaghi.
+Ho 25 anni e sono un ingegnere elettronico. Attualmente sto frequentando il master in Ingegneria Elettronica presso il Politecnico di Milano. Ho molte passioni ma le due più grandi sono il basket e il motorsport. Il mio lavoro dei sogni è diventare ingegnere per un team di formula 1. Nel frattempo perfeziono le mie skill e accolgo tutte le opportunità che la vita mi dà.</description>
     </item>
     
   </channel>

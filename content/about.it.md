@@ -1,5 +1,5 @@
 ---
-title: About
+title: Su di me
 ---
 
 **Il mio nome è Simone Asnaghi.**  
