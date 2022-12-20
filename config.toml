@@ -122,6 +122,13 @@ url = "privacy-policy/"
 [languages.it]
 languageName = ":it:"
 
+[[languages.it.params]]
+author = "Simone Asnaghi"
+description = "Sito personale di Simone Asnaghi"
+keywords = "blog,developer,personal"
+info = "Ingegnere Elettronico"
+
+
 [[languages.it.menu.main]]
 name = "Su di me"
 weight = 1
