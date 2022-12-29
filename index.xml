@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simone Asnaghi</title>
+    <link>https://simoasnaghi.github.io/testsite/</link>
+    <description>Recent content on Simone Asnaghi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simoasnaghi.github.io/testsite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web pages</title>
+      <link>https://simoasnaghi.github.io/testsite/projects/web-pages/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoasnaghi.github.io/testsite/projects/web-pages/</guid>
+      <description>This site
+This repo contains the source code of this site.
+Resumè page
+This repo contains the source code of my resumè page.</description>
+    </item>
+    
+    <item>
+      <title>Smart Bracelet</title>
+      <link>https://simoasnaghi.github.io/testsite/projects/smart-bracelet/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoasnaghi.github.io/testsite/projects/smart-bracelet/</guid>
+      <description>Smart Bracelet
+This repo contains my solution for the final project for the IoT course (ay 2021/2022);
+The objective of the project: create a pair of braceletss for child behavior monitoring.
+To know more please read: Smart Bracelet final report</description>
+    </item>
+    
+    <item>
+      <title>IoT Projects</title>
+      <link>https://simoasnaghi.github.io/testsite/projects/iot-projects/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoasnaghi.github.io/testsite/projects/iot-projects/</guid>
+      <description>Challenge 2
+This repo contains my solution to the second challenge of the IoT course (ay 2021/2022).
+The objective of the challenge: read data from a CSV by importing it into node-red, then extract only 100 values for field1, field2, and field5. The extraction is based on the person code. Last step export data from node-red to thingspeak by using mqtt communication protocol. Challenge 3
+This repo contains my solution to the third challenge of the IoT course (ay 2021/2022).</description>
+    </item>
+    
+    <item>
+      <title>VHDL module</title>
+      <link>https://simoasnaghi.github.io/testsite/projects/vhdl-module/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoasnaghi.github.io/testsite/projects/vhdl-module/</guid>
+      <description>VHDL module
+This repo contains a bunch of base gates written in VHDL.
+They can be used as templates for every project.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://simoasnaghi.github.io/testsite/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoasnaghi.github.io/testsite/about/</guid>
+      <description>My name is Simone Asnaghi.
+I&amp;rsquo;m 25 years old and I&amp;rsquo;m an electronics engineer. Currently, I&amp;rsquo;m enrolled in the master course in Electronics Engineering at Politecnico di Milano. I have a lot of passions, but the main ones are basketball and motorsport. My dream job is to become an engineer for an F1 team. Meanwhile, I work on my skills and take advantage of every opportunity life gives me. On these pages, you can find something related to my work.</description>
+    </item>
+    
+    <item>
+      <title>Privacy policy</title>
+      <link>https://simoasnaghi.github.io/testsite/privacypolicy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoasnaghi.github.io/testsite/privacypolicy/</guid>
+      <description>This site contains no cookies and I don’t collect any data linked to you. Since this page is hosted on Github’s server they could collect some of your data, like your IP address. All the information about their data collection policy can be found at the following link: Github Terms of Service. All social media logos are trademarks of their respective owners. No copyright infringement intended.</description>
+    </item>
+    
+  </channel>
+</rss>

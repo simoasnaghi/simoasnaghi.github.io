@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Progetti on Simone Asnaghi</title>
+    <link>https://simoasnaghi.github.io/testsite/it/progetti/</link>
+    <description>Recent content in Progetti on Simone Asnaghi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simoasnaghi.github.io/testsite/it/progetti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web pages</title>
+      <link>https://simoasnaghi.github.io/testsite/it/progetti/web-pages/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoasnaghi.github.io/testsite/it/progetti/web-pages/</guid>
+      <description>Questo sito
+Questo repo contiene il codice sorgente di questo sito.
+Pagina resumè
+Questo repo contiene il codice sorgente della pagina contenente il mio resumè.</description>
+    </item>
+    
+    <item>
+      <title>Smart Bracelet</title>
+      <link>https://simoasnaghi.github.io/testsite/it/progetti/smart-bracelet/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoasnaghi.github.io/testsite/it/progetti/smart-bracelet/</guid>
+      <description>Smart Bracelet
+Questo repo contiene la mia soluzione per il progetto finale del corso di IOT (aa 2021/2022).
+L&amp;rsquo;obbiettivo del progetto è creare una coppia di braccialetti smart, uno per il genitore e uno per il figlio, per monitorare l&amp;rsquo;attività del figlio e ottenere in tempo reale informazioni su eventuali emergenze.
+Per sapere di più: Smart Bracelet final report (report in lingua inglese)</description>
+    </item>
+    
+    <item>
+      <title>Progetti IOT</title>
+      <link>https://simoasnaghi.github.io/testsite/it/progetti/iot-projects/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoasnaghi.github.io/testsite/it/progetti/iot-projects/</guid>
+      <description>Challenge 2
+Questo repo contiene la mia soluzione alla seconda challenge del corso IOT (aa 2021/2022).
+Obbiettivo della challenge: leggere i dati da un file .csv importandolo in Node-RED, poi estrarre esattamente 100 valori per i campi field1, field2 e field5. L&amp;rsquo;estrazione si basa sul codice persona. L&amp;rsquo;ultimo passo consiste nell&amp;rsquo;esportare i dati sulla piattaforma Thingspeak(©) tramite protocollo MQTT. Challenge 3
+Questo repo contiene la mia soluzione alla terza challenge del corso IOT (aa 2021/2022).</description>
+    </item>
+    
+    <item>
+      <title>VHDL module</title>
+      <link>https://simoasnaghi.github.io/testsite/it/progetti/vhdl-module/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoasnaghi.github.io/testsite/it/progetti/vhdl-module/</guid>
+      <description>VHDL module
+Questo repo contiene i moduli base in lingua VHDL.
+Possono essere usati com etemplate per ogni progetto.</description>
+    </item>
+    
+  </channel>
+</rss>
