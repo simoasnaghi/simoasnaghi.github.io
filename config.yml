@@ -2,7 +2,6 @@ baseURL: "https://simoasnaghi.github.io/"
 title: Simone Asnaghi
 paginate: 5
 theme: charlolamode
-languageCode : en
 defaultContentLanguage : en
 publishDir: "docs"
 
@@ -10,6 +9,7 @@ publishDir: "docs"
 languages:
     en:
         languageName : ":us:"
+        baseURLlang: "/"
         contentDir: content/en
         profileMode:
             enabled: true
@@ -39,6 +39,7 @@ languages:
                   weight: 4
     it:
         languageName : ":it:"
+        baseURLlang: "/it"
         contentDir: content/it
         profileMode:
             enabled: true
