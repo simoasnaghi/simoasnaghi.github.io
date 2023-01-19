@@ -1,0 +1,76 @@
+[categories]
+one = "categoria"
+other = "categorie"
+
+[tags]
+one = "tag"
+other = "tags"
+
+[series]
+one = "serie"
+other = "serie"
+
+[authors]
+one = "autore"
+other = "autori"
+
+[posts]
+other = "post"
+
+[reading_time]
+one = "Lettura di un minuto"
+other = "{{ .Count }} minuti di lettura"
+
+[page_not_found]
+other = "Pagina non trovata"
+
+[page_does_not_exist]
+other = "Siamo spiacenti, questa pagina non esiste."
+
+[head_back]
+other = "Torna alla <a href=\"{{ . }}\">homepage</a>."
+
+[licensed_under]
+other = "Licenziato sotto "
+
+[powered_by]
+other = "Generato da"
+
+[see_also]
+other = "Vedi anche in"
+
+[note]
+other = "note"
+
+[tip]
+other = "mancia"
+
+[example]
+one = 'esempio'
+other = "esempi"
+
+[question]
+one = 'domanda'
+other = "domande"
+
+[info]
+one = ' informazione'
+other = "informazioni"
+
+[warning]
+one = 'avviso'
+other = "avvisi"
+
+[error]
+one = 'errore'
+other = "errori"
+
+[link_to_heading]
+one = "Vai all'inizio"
+other = "Link to heading"
+
+[Project]
+other = "Progetto"
+
+[Projects]
+other = "Progetti"
